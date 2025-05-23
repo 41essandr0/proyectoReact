@@ -1,7 +1,0 @@
-{
-    "games" : [
-    { "id": 1, "title": "Juego 1", "description": "Juego de accion y aventura", "price": "S/ 59.99", "genre": "Action" },
-    { "id": 2, "title": "Juego 2", "description": "Simulación de deportes", "price": "S/ 49.99", "genre": "Deportes" },
-    { "id": 3, "title": "Juego 3", "description": "RPG de strategia", "price": "S/ 39.99", "genre": "Estrategia" }
-  ]
-}
